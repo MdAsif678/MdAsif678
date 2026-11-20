@@ -1,12 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:e23b2e&height=210&section=header&text=Mohammed%20Asif%20Ali&fontSize=46&fontColor=f2efe9&animation=fadeIn&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20Web%20security%20%C2%B7%20Web3&descAlignY=56&descSize=16" width="100%" alt="Mohammed Asif Ali · Full-stack developer · Web security · Web3"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=E23B2E&center=true&vCenter=true&width=640&lines=I+build+and+ship+full-stack+web+apps;Currently+building+a+notes+app+and+reveace.io;Always+building+at+hackathons" alt="I build and ship full-stack web apps"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=E23B2E&center=true&vCenter=true&width=640&lines=I+build+and+ship+full-stack+web+apps;Currently+building+a+notes+app;Always+building+at+hackathons" alt="I build and ship full-stack web apps"/>
 </p>
 
 <p align="center">
   <a href="mailto:wasif.md678@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=e23b2e" alt="Email"/></a>
-  <a href="https://reveace.io"><img src="https://img.shields.io/badge/reveace.io-live-e23b2e?style=for-the-badge&logo=googlechrome&logoColor=f2efe9&labelColor=0a0a0a" alt="reveace.io live"/></a>
   <a href="https://trustlens-check.vercel.app"><img src="https://img.shields.io/badge/TrustLens-live-e23b2e?style=for-the-badge&logo=vercel&logoColor=f2efe9&labelColor=0a0a0a" alt="TrustLens live"/></a>
   <a href="https://cinescopeai.xyz"><img src="https://img.shields.io/badge/CineScope-live-e23b2e?style=for-the-badge&logo=vercel&logoColor=f2efe9&labelColor=0a0a0a" alt="CineScope live"/></a>
 </p>
@@ -15,7 +14,8 @@
 
 ### About me
 
-- **Currently building** a notes app, and [reveace.io](https://reveace.io): the store for my DaVinci Resolve Fusion plugins, with a 3D physics hero, music generated in the browser, a key-and-vault unlock animation, and licence keys behind Polar checkout and a Cloudflare Worker API
+- **Currently building** a notes app
+- **Also working on** [reveace.io](https://reveace.io), a friend's store for DaVinci Resolve Fusion plugins: reworking it with a 3D physics hero, music generated in the browser, a key-and-vault unlock animation, and licence keys behind Polar checkout
 - **Built** [TrustLens](https://github.com/MdAsif678/Hackmatrix_Breaking_Bugs), a scam checker for links and messages, and [CineScope](https://cinescopeai.xyz), a film discovery site with AI picks
 - **Machine learning:** an [air-quality early-warning model](https://github.com/MdAsif678/Air-Forecast-Model) for Indian cities
 - **Studying** at Aliah University, 2024–2028
