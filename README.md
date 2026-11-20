@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:e23b2e&height=210&section=header&text=Mohammed%20Asif%20Ali&fontSize=46&fontColor=f2efe9&animation=fadeIn&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20Web%20security%20%C2%B7%20Web3&descAlignY=56&descSize=16" width="100%" alt="Mohammed Asif Ali · Full-stack developer · Web security · Web3"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=E23B2E&center=true&vCenter=true&width=640&lines=I+build+and+ship+full-stack+web+apps;Scam+checker+%C2%B7+film+discovery+%C2%B7+air-quality+ML;Always+building+at+hackathons" alt="I build and ship full-stack web apps"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=E23B2E&center=true&vCenter=true&width=640&lines=I+build+and+ship+full-stack+web+apps;Currently+building+a+notes+app;Always+building+at+hackathons" alt="I build and ship full-stack web apps"/>
 </p>
 
 <p align="center">
@@ -14,8 +14,9 @@
 
 ### About me
 
-- **Building** [TrustLens](https://github.com/MdAsif678/Hackmatrix_Breaking_Bugs), a scam checker for links and messages, and [CineScope](https://cinescopeai.xyz), a film discovery site with AI picks
-- **Exploring** machine learning, with an [air-quality early-warning model](https://github.com/MdAsif678/Air-Forecast-Model) for Indian cities
+- **Currently building** a notes app
+- **Built** [TrustLens](https://github.com/MdAsif678/Hackmatrix_Breaking_Bugs), a scam checker for links and messages, and [CineScope](https://cinescopeai.xyz), a film discovery site with AI picks
+- **Machine learning:** an [air-quality early-warning model](https://github.com/MdAsif678/Air-Forecast-Model) for Indian cities
 - **Studying** at Aliah University, 2024–2028
 - **Certified** in Data Science and Machine Learning (FutureSkills Prime, NASSCOM · Gold)
 
